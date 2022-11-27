@@ -60,6 +60,10 @@ ul.topnav li.right {float: right;}
 
 @media screen and (max-width: 600px) {
   ul.topnav li.right,
-  div 
+  div, 
+ div.h1,
+    h1.s11,
+    h1.s22,
+    div.s33,
   ul.topnav li {float: none;}
 }
